@@ -9,3 +9,5 @@ One misty morning, she noticed something different. A key, ancient and brass, hu
 As she slipped the key into the lock, the roses seemed to pulse with a brighter glow, almost as if they were welcoming her home.
 
 Beyond the gate, the garden was even more extraordinary. Paths made of luminescent stones wound between beds of flowers she'd never seen before. In the center stood a marble fountain, its water shimmering with the same ethereal blue as the roses. But what caught her eye was the ancient book lying open on the fountain's edge, its pages moving gently in a breeze she couldn't feel.
+
+Drawn by an inexplicable force, Sarah approached the book. Its pages were filled with hand-drawn illustrations of flowers—the very same otherworldly specimens that surrounded her now. Delicate notes in faded ink described their properties: flowers that bloomed in moonlight, petals that could heal wounds, stems that hummed melodies when the wind blew through them. As she turned the last page, a small envelope fell out, addressed simply to 'The Next Guardian.'
