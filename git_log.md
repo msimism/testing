@@ -5,37 +5,22 @@ Command: create_branch
 Parameters:
 - repo: testing
 - owner: msimism
-- branch: story-addition-v2
+- branch: name-change-and-continuation
 
 Response:
 ```json
 {
-  "ref": "refs/heads/story-addition-v2",
-  "node_id": "REF_kwDONZUiq7xyZWZzL2hlYWRzL3N0b3J5LWFkZGl0aW9uLXYy",
-  "url": "https://api.github.com/repos/msimism/testing/git/refs/heads/story-addition-v2",
+  "ref": "refs/heads/name-change-and-continuation",
+  "node_id": "REF_kwDONZUiq9oAJ3JlZnMvaGVhZHMvbmFtZS1jaGFuZ2UtYW5kLWNvbnRpbnVhdGlvbg",
+  "url": "https://api.github.com/repos/msimism/testing/git/refs/heads/name-change-and-continuation",
   "object": {
-    "sha": "2acead93b6cd308924f2268de10ec538cf3cd979",
+    "sha": "c7124d1502c1f8a8985b9b9b3ae326cf4b6f3bb3",
     "type": "commit",
-    "url": "https://api.github.com/repos/msimism/testing/git/commits/2acead93b6cd308924f2268de10ec538cf3cd979"
+    "url": "https://api.github.com/repos/msimism/testing/git/commits/c7124d1502c1f8a8985b9b9b3ae326cf4b6f3bb3"
   }
 }
 ```
 
-## Push Files Operation
-Command: push_files to story-addition-v2
-Response:
-```json
-{
-  "ref": "refs/heads/story-addition-v2",
-  "node_id": "REF_kwDONZUiq7xyZWZzL2hlYWRzL3N0b3J5LWFkZGl0aW9uLXYy",
-  "url": "https://api.github.com/repos/msimism/testing/git/refs/heads/story-addition-v2",
-  "object": {
-    "sha": "072acb94a001c9b738659cac9b753ee06f0f91cf",
-    "type": "commit",
-    "url": "https://api.github.com/repos/msimism/testing/git/commits/072acb94a001c9b738659cac9b753ee06f0f91cf"
-  }
-}
-```
-
-## Merge to Main Operation
+## Push Files Operations
+Command: push_files to name-change-and-continuation
 Command: push_files to main
