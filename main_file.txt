@@ -1,1 +1,1 @@
-This is the main file with an update.
+{"content":"This is the main file with an update.\nThis is an additional line.","encoding":"utf-8"}
